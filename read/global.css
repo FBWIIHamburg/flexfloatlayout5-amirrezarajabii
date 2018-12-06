@@ -16,10 +16,16 @@
 
 [class*="col-"]{
     float: left;
-    padding: 15px;
+    padding: 0px;
     border: 1px solid black;
 }
 .row{
     width: 100%;
     float: left;
+    padding: 0px;
+}
+.img-responsive{
+    width: 100%;
+    height: auto;
+    max-height:250px ;
 }

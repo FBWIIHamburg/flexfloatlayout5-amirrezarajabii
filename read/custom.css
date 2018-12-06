@@ -3,7 +3,7 @@ body{
     padding: 0;
 }
 nav.vertical{
-    min-height: 400px;
+    min-height: 200px;
 }
 nav.vertical>ul{
     list-style: none;
@@ -30,13 +30,6 @@ nav.vertical>ul>li:hover{
     font-size: 20px;
     transition: 1s;
 }
-
-
-
-
-
-
-
 
 
 /* nav.Horizental{
